@@ -8,6 +8,7 @@ body{
 .topleft{
 	color: #f9f3f4;
     position: absolute;
+    text-align: left;
     top: 8px;
     left: 16px;
     font-size: 18px;
@@ -75,7 +76,7 @@ h1{
 }
 
 .footer{
-    bottom: 0px;
+    bottom: 200px;
     color: white;
     text-align: center;
 }
