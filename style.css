@@ -68,12 +68,6 @@ h1{
     bottom: 8px;
 }
 
-.header
-{
-    background-image: url('giphy.gif');
-    height: 100vh;
-    border-bottom: 2px solid black;
-}
 
 #particles-js{
     background-image: url('image1.jpg');
