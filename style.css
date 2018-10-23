@@ -77,7 +77,8 @@ h1{
     bottom: 8px;
 }
 
-.ftext{
+.ftext
+    margin-right: 205px;
 	padding-left:5em
 }
 
