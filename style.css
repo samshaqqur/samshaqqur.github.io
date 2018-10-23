@@ -13,7 +13,7 @@ body{
     font-size: 18px;1
 }
 
-.btn{
+.topbtn{
     color: #fff;
     position: absolute;
     top: 8px;
@@ -25,7 +25,7 @@ body{
     line-height: 4em;
 }
 
-.btn:hover{
+.topbtn:hover{
     color: #b19295;
     border: #fff 5px solid;
 }
