@@ -73,8 +73,10 @@ h1{
     height: 100vh;
 }
 
-#aboutpage{
-    background-image: url('giphy.gif');
-    background-repeat:no-repeat;
-    background-size: 50% 100%;
+#leftHalf {
+   background: url('giphy.gif');
+   width: 100%;
+   position: absolute;
+   top: 0px;
+   height: 50%;
 }
