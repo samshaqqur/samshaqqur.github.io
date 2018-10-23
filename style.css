@@ -70,6 +70,8 @@ h1{
 
 .header
 {
+    background-image: url('giphy.gif');
+    height: 100vh;
     border-bottom: 2px solid black;
 }
 
