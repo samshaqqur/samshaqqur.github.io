@@ -68,9 +68,14 @@ h1{
     bottom: 8px;
 }
 
+.imageb{
+  background-image: url("giphy.gif");
+  background-position: 50% 100%;
+  background-repeat: repeat;
+  }
+
 .header
 {
-	background-image:url('giphy.gif');
 	width:100%;
 	height:46%;
     margin-top:;
