@@ -60,12 +60,10 @@ h1{
 }
 
 .footer{
-    color: #f9f3f4;
+   	color: #f9f3f4;
     position: absolute;
     text-align: center;
-    top: 80%;
-    width: 100%;
-    line-height: 0.4em;
+    bottom: 8px;
 }
 
 #particles-js{
